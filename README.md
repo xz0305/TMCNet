@@ -64,6 +64,7 @@ Before training, download:
 
 ### ⚙️ 3. Data Preprocessing
 ```bash
+Video Segmentation
 python preprocess.py \
     --data_root data/ \
     --preprocessed_root MEAD_preprocessed/
