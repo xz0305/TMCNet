@@ -59,7 +59,7 @@ Please follow the official instructions to download the dataset.
 
 Before training, download:
 
-- ✅ Lip-expert discriminator (SyncNet) checkpoint--[syncnet.pth](https://drive.google.com/file/d/1pblfITK7THwjCWGWLz7ehjdoMfXYX183/view?usp=drive_link)
+- Lip-expert discriminator (SyncNet) checkpoint--[syncnet.pth](https://drive.google.com/file/d/1pblfITK7THwjCWGWLz7ehjdoMfXYX183/view?usp=drive_link)
 - Motion estimation model weights--[motion.pth](https://drive.google.com/file/d/1pblfITK7THwjCWGWLz7ehjdoMfXYX183/view?usp=drive_link)
 
 ### ⚙️ 3. Data Preprocessing
