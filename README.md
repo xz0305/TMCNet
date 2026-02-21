@@ -8,10 +8,10 @@ Given a source face video and an arbitrary driving audio, TMCNet generates reali
 
 ## ✨ Highlights
 
-- 🎯 Fine-grained facial motion modeling  
+- 🎯 Fine-grained teeth motion modeling  
 - 🔊 Accurate lip synchronization with arbitrary audio  
 - 🎥 Strong temporal consistency  
-- 🔄 Identity-preserving generation  
+- 🔄 Facial detail generation
 
 ---
 
